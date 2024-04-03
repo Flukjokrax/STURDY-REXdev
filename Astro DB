@@ -1,0 +1,8 @@
+# Log in to Astro Studio with your GitHub account
+yarn astro login
+
+# Link to a new project by following the prompts
+yarn astro link
+
+# (Optional) Push your local db configuration to the remote database
+yarn astro db push
